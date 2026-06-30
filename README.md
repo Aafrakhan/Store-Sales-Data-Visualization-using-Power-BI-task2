@@ -1,5 +1,5 @@
 # Store Sales Dashboard – Data Visualization & Storytelling
-Tool used: Microsoft Power BI Desktop
+# Tool used: Microsoft Power BI Desktop
 
 ## Objective
 Build visualizations that go beyond just charts uncover and communicate business insights from sales data through an interactive dashboard and a storyboard summary.
@@ -23,8 +23,6 @@ The Consumer segment drives over half of total sales (50.57%, ₹1.16M) more tha
 
 **3. Regional and yearly growth trend**
 West (₹725.5K) and East (₹680.5K) are the top-performing regions, together contributing over 60% of sales, while South lags at ₹391.7K. Sales have grown steadily each year, from ₹484K in 2021 to ₹734K in 2024.
-
-
 
 ## Outcome
 Practiced visual storytelling by pairing well-chosen chart types (avoiding chart clutter) with a dedicated insights page that translates raw numbers into business takeaways specifically identifying where the store is losing money despite strong sales volume.
