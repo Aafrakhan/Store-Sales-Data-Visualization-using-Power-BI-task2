@@ -2,7 +2,7 @@
 Tool used: Microsoft Power BI Desktop
 
 ## Objective
-Build visualizations that go beyond just charts — uncover and communicate business insights from sales data through an interactive dashboard and a storyboard summary.
+Build visualizations that go beyond just charts uncover and communicate business insights from sales data through an interactive dashboard and a storyboard summary.
 
 ## Dataset
 store sales dataset — contains order-level sales, profit, quantity, category, sub-category, region, segment, and date fields.
