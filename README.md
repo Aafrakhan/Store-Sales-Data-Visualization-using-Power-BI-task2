@@ -27,4 +27,4 @@ West (₹725.5K) and East (₹680.5K) are the top-performing regions, together c
 
 
 ## Outcome
-Practiced visual storytelling by pairing well-chosen chart types (avoiding chart clutter) with a dedicated insights page that translates raw numbers into business takeaways — specifically identifying where the store is losing money despite strong sales volume.
+Practiced visual storytelling by pairing well-chosen chart types (avoiding chart clutter) with a dedicated insights page that translates raw numbers into business takeaways specifically identifying where the store is losing money despite strong sales volume.
